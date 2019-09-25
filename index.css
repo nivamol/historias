@@ -9,6 +9,8 @@
 header.header {
   display: grid;
   grid-template: repeat(1, 100vh) / repeat(2, 1fr);
+  align-items: center;
+  justify-items: center;
 }
 
 .header div.header__titulos-info {
