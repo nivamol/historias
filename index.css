@@ -20,6 +20,7 @@ header.header {
   line-height: 1.2;
   letter-spacing: -0.05em;
   text-decoration: none;
+  margin-bottom: 0.3em;
 }
 
 .header div.header__titulos-info h1 {
