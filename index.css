@@ -7,7 +7,8 @@
 /*header*/
 
 header.header {
-
+  display: grid;
+  grid-template: repeat(1, 100vh) / repeat(2, 1fr);
 }
 
 .header div.header__titulos-info {
