@@ -30,6 +30,13 @@ header.header {
 }
 
 .header div.header__titulos-info button {
+  margin-top: 2.5em;
+  border-radius: 30px;
+  width: 200px;
+  padding: .8em 0;
+  font-family: var(--fuentePrincipal);
+  font-size: 1.1rem;
+
 
 }
 
