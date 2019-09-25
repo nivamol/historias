@@ -13,12 +13,13 @@ header.header {
   justify-items: center;
 }
 
-.header div.header__titulos-info {
-
-}
-
-.header div.header__titulos-info h2 {
-
+.header div.header__titulos-info p {
+  font-family: var(--fuentePrincipal);
+  font-weight: 100;
+  font-size: 3.5rem;
+  line-height: 1.2;
+  letter-spacing: -0.05em;
+  text-decoration: none;
 }
 
 .header div.header__titulos-info h1 {
