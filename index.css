@@ -55,7 +55,9 @@ header.header {
 /*section.projects*/
 
 section.projects {
-
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
 .projects div.imagen {
@@ -63,7 +65,8 @@ section.projects {
 }
 
 div.imagen img {
-
+  width: 700px;
+  height: 400px;
 }
 
 .projects div.descripcion-p1 {
