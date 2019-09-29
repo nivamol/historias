@@ -105,15 +105,18 @@ div.imagen img {
 /*section tecnologías */
 
 section.tecnologias {
-
+  width: 100vw;
 }
 
 .tecnologias div.descripcion-t {
-
+  text-align: center;
+  font-family: var(--fuentePrincipal);
 }
 
 .tecnologias div.descripcion-t h3 {
-
+  margin-top: 2em;
+  font-size: 2.5em;
+  font-weight: lighter;
 }
 
 .tecnologias div.descripcion-t p {
