@@ -36,6 +36,7 @@ header.header {
   padding: .8em 0;
   font-family: var(--fuentePrincipal);
   font-size: 1.1rem;
+  outline: none;
 }
 
 .header div.header__titulos-info button:hover {
@@ -92,6 +93,7 @@ div.imagen img {
   padding: .8em 0;
   font-family: var(--fuentePrincipal);
   font-size: 1.1rem;
+  outline: none;
 }
 
 .projects div.descripcion-p1 button:hover {
@@ -99,6 +101,3 @@ div.imagen img {
   border-color: #8BD8ED;
   transition: .6s;
 }
-
-/*proyecto-2*/ 
-
