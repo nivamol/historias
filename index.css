@@ -120,7 +120,12 @@ section.tecnologias {
 }
 
 .tecnologias div.descripcion-t p {
-
+  font-family: var(--fuentePrincipal);
+  font-size: 1.1em;
+  font-weight: lighter;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .tecnologias div.seccion-tech {
