@@ -55,8 +55,10 @@ header.header {
 /*section.projects*/
 
 section.projects {
-  display: flex;
+  display: grid;
+  grid-template: repeat(1, 1fr) / repeat(2, 1fr);
   justify-content: space-around;
+  grid-gap: 2em;
   align-items: center;
 }
 
