@@ -58,7 +58,7 @@ section.projects {
   display: grid;
   grid-template: repeat(1, 1fr) / repeat(2, 1fr);
   justify-content: space-around;
-  grid-gap: 2em;
+  grid-gap: 0 2em;
   align-items: center;
 }
 
@@ -96,5 +96,7 @@ div.imagen img {
   border-color: #8BD8ED;
   transition: .6s;
 }
+
+/*proyecto-2*/ 
 
 
