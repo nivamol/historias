@@ -99,4 +99,6 @@ div.imagen img {
 
 /*proyecto-2*/ 
 
-
+.projects div.descripcion-p2 {
+  padding-left: 1.5em;
+}
