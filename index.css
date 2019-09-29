@@ -71,12 +71,15 @@ div.imagen img {
   height: 400px;
 }
 
-.projects div.descripcion-p1 {
-
+.projects div.descripcion-p1 h2 {
+  font-family: var(--fuentePrincipal);
+  font-size: 2em;
 }
 
-div.descripcion-1 p {
-
+.projects div.descripcion-p1 p {
+  font-family: var(--fuentePrincipal);
+  font-size: 1em;
+  padding-right: 2.5em;
 }
 
 
