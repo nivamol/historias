@@ -151,7 +151,9 @@ div.tech h3 {
 }
 
 div.tech p {
-
+  font-family: var(--fuentePrincipal);
+  font-weight: lighter;
+  padding: 0 4em;
 }
 
 
