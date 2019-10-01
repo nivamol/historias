@@ -108,6 +108,12 @@ section.tecnologias {
   width: 100vw;
 }
 
+.tecnologias div.techno {
+  display: grid;
+  grid-template: repeat(2, 1fr) / repeat(3, 1fr);
+  margin: 2em 4em; 
+}
+
 .tecnologias div.descripcion-t {
   text-align: center;
   font-family: var(--fuentePrincipal);
@@ -128,16 +134,9 @@ section.tecnologias {
   text-align: center;
 }
 
-.tecnologias div.seccion-tech {
-
-}
-
-.seccion-tech div.techno {
-
-}
 
 .seccion-tech div.tech {
-
+  height: 250px;
 }
 
 div.tech span {
