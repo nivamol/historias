@@ -137,10 +137,10 @@ section.tecnologias {
 
 .seccion-tech div.tech {
   height: 250px;
+  text-align: center;
 }
 
 div.tech span {
-
 }
 
 div.tech h3 {
