@@ -185,7 +185,8 @@ section.formulario {
 }
 
 .formulario div.titulo {
-
+  font-family: var(--fuentePrincipal);
+  font-size: 2.4em;
 }
 
 .formulario div.form-1 {
