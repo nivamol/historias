@@ -253,7 +253,10 @@ div.form-1 input {
 
 
 section.social-media {
-
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 8em 0;
 }
 
 .social-media div.icons {
