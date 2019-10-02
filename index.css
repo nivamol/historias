@@ -195,14 +195,20 @@ div.contenedor-form {
 }
 
 .formulario div.form-1 {
+  font-family: var(--fuentePrincipal);
 }
 
-.formulario div.name {
-
+div.form-1 label {
+  margin-left: 2em;
+  font-size: 1.3em;
+  margin-right: .8em;
 }
 
-.formulario div.mail {
-
+div.form-1 input {
+  height: 2.5em;
+  width: 20em;
+  border-radius: 15px;
+  outline: none;
 }
 
 .formulario div.message {
