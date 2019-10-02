@@ -226,6 +226,7 @@ div.form-1 input {
  margin-top: 1em;
  border-radius: 20px;
  border: 0.5px solid grey;
+ outline: none;
 }
 
 .formulario div.button {
