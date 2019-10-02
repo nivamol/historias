@@ -229,12 +229,25 @@ div.form-1 input {
 }
 
 .formulario div.button {
-
+  margin-top: 2em;
 }
 
 .formulario div.button button {
-
+  padding: .8em;
+  font-family: var(--fuentePrincipal);
+  font-size: 1.2em;
+  width: 150px;
+  border-radius: 50px;
+  outline: none;
 }
+
+.formulario div.button button:hover {
+  color: #8BD8ED;
+  border-color: #8BD8ED;
+  transition: .6s;
+}
+
+
 
 
 
