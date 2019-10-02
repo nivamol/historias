@@ -272,8 +272,19 @@ section.social-media {
 }
 
 .social-media div.credits {
-
+  margin-top: 3em;
+  font-family: var(--fuentePrincipal);
+  font-size: 1.3em;
+  font-weight: lighter;
+  font-style: italic;
 }
+
+.social-media div.credits p a {
+  text-decoration: none;
+  color: #8BD8ED;
+}
+
+
 
 
 
